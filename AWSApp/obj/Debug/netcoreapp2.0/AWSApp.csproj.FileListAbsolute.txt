@@ -1,0 +1,11 @@
+c:\users\yadhu\source\repos\AWSApp\AWSApp\bin\Debug\netcoreapp2.0\AWSApp.deps.json
+c:\users\yadhu\source\repos\AWSApp\AWSApp\bin\Debug\netcoreapp2.0\AWSApp.runtimeconfig.json
+c:\users\yadhu\source\repos\AWSApp\AWSApp\bin\Debug\netcoreapp2.0\AWSApp.runtimeconfig.dev.json
+c:\users\yadhu\source\repos\AWSApp\AWSApp\bin\Debug\netcoreapp2.0\AWSApp.dll
+c:\users\yadhu\source\repos\AWSApp\AWSApp\bin\Debug\netcoreapp2.0\AWSApp.pdb
+c:\users\yadhu\source\repos\AWSApp\AWSApp\obj\Debug\netcoreapp2.0\AWSApp.csprojAssemblyReference.cache
+c:\users\yadhu\source\repos\AWSApp\AWSApp\obj\Debug\netcoreapp2.0\AWSApp.csproj.CoreCompileInputs.cache
+c:\users\yadhu\source\repos\AWSApp\AWSApp\obj\Debug\netcoreapp2.0\AWSApp.AssemblyInfoInputs.cache
+c:\users\yadhu\source\repos\AWSApp\AWSApp\obj\Debug\netcoreapp2.0\AWSApp.AssemblyInfo.cs
+c:\users\yadhu\source\repos\AWSApp\AWSApp\obj\Debug\netcoreapp2.0\AWSApp.dll
+c:\users\yadhu\source\repos\AWSApp\AWSApp\obj\Debug\netcoreapp2.0\AWSApp.pdb
